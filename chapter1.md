@@ -7,11 +7,11 @@
      > 背景选透明色
      
 ##2. 移动工具
-   ![](/assets/96[@0~JX[FOIX5%8O@IFU~Q.png)
+   ![](/assets/9Q.png)
    > 左侧第一个工具，选择图层，不要勾选自动选择。
    > ctrl + 鼠标左键，快速定位图层。
 
 ##3. 视图设置  
 
- ![](/assets/WM4@S{]CL9K430%D3KDNY~C.png)
+ ![](/assets/WC.png)
  > 视图中勾选智能参考线
