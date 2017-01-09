@@ -47,9 +47,10 @@
 ##4. 窗口
   - 窗口中开启四个字符、信息、图层、历史记录
   
-  ![](/assets/H}%RB}[%YZDCT4YK{8U63W3.png)
+  ![](/assets/HW3.png)
   - 面板选项
-  ![](/assets/TBO.png)
+  
+  ![](/assets/2017-01-09_113132.png)
   
   
   
