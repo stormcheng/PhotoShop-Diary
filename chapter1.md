@@ -23,8 +23,8 @@
 ##1. 新建
    - **Ctrl + N**   
    
-    ![](assets/B.png)
-![](/assets/3X8RS$CUPSW`MHLSAY4A(23.png)     > 大小选`web`，网页一般固定宽度，不固定高度。单位是`像素`。   
+    ![](assets/B.png)  
+     > 大小选`web`，网页一般固定宽度，不固定高度。单位是`像素`。   
      
      > 背景选透明色
      
