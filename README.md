@@ -1,4 +1,6 @@
-# PhotoShop Diary 
+#简介 
+    
+##PhotoShop Diary 
 
-![](http://pic22.nipic.com/20120625/8239908_171801544305_2.jpg)  
+   ![](http://pic22.nipic.com/20120625/8239908_171801544305_2.jpg)  
 
